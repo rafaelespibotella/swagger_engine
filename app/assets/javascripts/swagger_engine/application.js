@@ -7,8 +7,5 @@
 //= require 'swagger_engine/lib/backbone-min.js'
 //= require 'swagger_engine/swagger-ui.js'
 //= require 'swagger_engine/lib/highlight.7.3.pack.js'
-//= require 'swagger_engine/lib/jsoneditor.min.js'
 //= require 'swagger_engine/lib/marked.js'
 //= require 'swagger_engine/lib/swagger-oauth.js'
-//= require 'swagger_engine/lang/translator.js'
-//= require 'swagger_engine/lang/en.js'
